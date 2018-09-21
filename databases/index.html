@@ -1,0 +1,26 @@
+---
+layout: page
+title: Databases A-Z
+---
+
+{% include jump.html %}
+
+{% assign charInit = 'z' | upcase %}
+{% assign firstLetter = '' %}
+
+{% for db in site.data.dbs %}
+
+    {% assign firstLetter = db.title | slice: 0, 1 | upcase %}
+    {% if firstLetter != charInit %}
+	    {% assign charInit = firstLetter %}
+	    <div id="{{ firstLetter }}link" class="entry">
+	  {% else %}
+      <div class="entry">
+    {% endif %}
+
+    <p><a href="http://libproxy.temple.edu/login?url={{ db.url }}">{{ db.title }}</a></p>
+    <div class="accessnote">{{ db.accessnote }}</div>
+    <div class="borderBottom"></div>
+  </div>
+{% endfor %}
+

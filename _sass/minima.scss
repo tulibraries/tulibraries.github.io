@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #951936 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+
+tr.odd {
+background-color: #f1efe7;
+}
+td {
+padding: 7px;
+}
+
+.home {
+margin-top: 20px;
+}
+
+.intro {
+margin-top: 28px auto 42px auto;
+padding-bottom: 21px;
+}
+/* DATABASES PAGE */
+#jump {
+color:#b7b29c;
+margin-bottom:35px;
+text-align:center;
+border-bottom:solid #e6e3d7 1px;
+font-size:smaller;
+padding:4px;
+}
+#jump a {
+color:black;font-family: verdana, helvetica, arial, sans;
+}
+ul.dbs {
+	margin-left: 10px;
+	li {
+		list-style-type: none;
+	}
+}
+.entry {
+margin-bottom:14px;
+}
+.borderBottom {
+width:95%;
+margin: 7px 2.5%;
+border-bottom:solid #ccc 1px;
+background-color:transparent;
+padding:4px;
+}
+.spacer {
+height: 42px;
+}
+.accessnote {
+margin-left: 14px;
+font-size:smaller;
+}
+
+/* MISC */
+.inline {
+font-size: 110%;
+text-decoration:none;
+border-bottom:dotted $brand-color 1px;
+}
+.inline:hover {
+text-decoration: none;
+}
+
+.invisible {
+clip: rect(1px, 1px, 1px, 1px);
+overflow: hidden;
+position: absolute !important;
+height: 1px;
+width: 1px;
+left: -1000em;
+}
