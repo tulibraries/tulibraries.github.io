@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="generator" content=
+  "HTML Tidy for Windows (vers 18 June 2008), see www.w3.org" />
+  <meta name="Temple University Press" content="" />
+  <meta name="keywords" http-equiv="keywords" content=
+  "temple university press, publishing, publisher, nonfiction" />
+
+  <title>Temple University Press</title>
+  <script language="JavaScript" type="text/javascript">
+//<![CDATA[
+  <!--
+
+  //var searchLocation = "http://gong.temple.edu/search";
+
+
+
+
+  function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+  }
+
+  function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+  }
+
+  function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+  }
+
+  function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+  }
+
+  function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+  }
+
+  function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+  }
+  //-->
+  //]]>
+  </script>
+  <script type="text/javascript">
+//<![CDATA[
+  <!--
+  <!--
+
+  function newImage(arg) {
+    if (document.images) {
+        rslt = new Image();
+        rslt.src = arg;
+        return rslt;
+    }
+  }
+
+  function changeImages() {
+    if (document.images && (preloadFlag == true)) {
+        for (var i=0; i<changeImages.arguments.length; i+=2) {
+            document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+        }
+    }
+  }
+
+  var preloadFlag = false;
+  function preloadImages() {
+    if (document.images) {
+        
+        oct08_01_ImageMap_01_over = newImage("img/oct08_01-ImageMap_01_over.jpg");
+        oct08_01_ImageMap_02_over = newImage("img/oct08_01-ImageMap_02_over.jpg");
+        oct08_01_ImageMap_05_over = newImage("img/oct08_01-ImageMap_05_over.jpg");
+        oct08_01_ImageMap_04_over = newImage("img/oct08_01-ImageMap_04_over.jpg");
+        preloadFlag = true;
+    }
+  }
+
+
+
+  // -->
+
+  function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+  }
+  //-->
+  function getCheckedValue(radioObj) {
+    if(!radioObj)
+        return "";
+    var radioLength = radioObj.length;
+    if(radioLength == undefined)
+        if(radioObj.checked)
+            return radioObj.value;
+        else
+            return "";
+    for(var i = 0; i < radioLength; i++) {
+        if(radioObj[i].checked) {
+            return radioObj[i].value;
+        }
+    }
+    return "";
+  }
+
+  function redirectOutput(myForm) 
+  {
+    var w = window.open('about:blank','Popup_Window', '');
+    myForm.target = 'Popup_Window';
+  return true;
+  }
+
+  function TUsearchType() 
+  {
+    if (getCheckedValue(document.forms['books_search'].elements['sType']) == "books")
+    {
+        document.forms['books_search'].action = 'http://books.google.com/books/p/temple_univ_press';
+        //alert(document.books_search.Action);
+        //alert(getCheckedValue(document.forms['books_search'].elements['sType']));
+        
+    } 
+    else 
+    {
+        document.forms['books_search'].action = "http://gong.temple.edu/search";
+        //alert(document.books_search.Action);
+        //alert(getCheckedValue(document.forms['books_search'].elements['sType']));
+        
+    }
+  }
+
+  function TUsearchSubmit() 
+  {
+    redirectOutput(document.forms['books_search']);
+    
+  }
+
+  //]]>
+  </script>
+  <script type="text/javascript" src="jquery-1.4.2.min.js">
+</script><!-- include jQuery library -->
+  <link rel="stylesheet" media="screen" href="superfish.css" type=
+  "text/css" />
+  <script src="hoverIntent.js" type="text/javascript">
+</script>
+  <script src="superfish.js" type="text/javascript">
+</script><!-- include Cycle plugin -->
+
+  <script type="text/javascript" src="jquery.cycle.lite.js">
+</script>
+
+<!--  initialize the slideshow when the DOM is ready -->
+
+  <script type="text/javascript">
+//<![CDATA[
+  $(document).ready(function() {
+    $('.slideshow').cycle({
+        fx: 'fade' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+    });
+    
+    $("ul.sf-menu").superfish(); 
+
+  });
+  //]]>
+  </script>
+  <link rel="stylesheet" type="text/css" href=
+  "http://yui.yahooapis.com/2.8.1/build/reset/reset-min.css" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="scstyle.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="nivo-slider.css" type="text/css" media="screen" />
+
+</head>
+<!-- Home page designed by Sean Coker, Copyright 2010 Temple University.  All Rights Reserved. -->
+
+<body>
+  <div id="scWrapper" style="position:relative; ">
+    <div id="scHeader">
+      <blockquote>
+        <p><a href="http://www.temple.edu/tempress/index.html"><img src="img/banner2_top2.gif" border="0" alt=
+      "Temple University Press" class="scLogo" /></a>
+          
+        </p>
+      </blockquote>
+      <div id="scForms">
+      
+      
+      <!-- START Google Site Search box -->
+
+      <blockquote>
+        <form name="templesearch" method='get' action='http://search.temple.edu/search.php'>
+          <label for="searchString" style="position:absolute;left:-1000px;top:auto;width:1px;height:1px;overflow:hidden;">
+          </label> 
+          <input type='text' id="search" name='searchString' title="Type text to search" size="40" /> 
+          <input type='hidden' value='www.temple.edu/tempress' name='searchFolder'/>
+          <input type='submit' value='Search'/>
+        </form>
+      </blockquote>
+
+<!-- END Google Site Search box --> 
+        
+        
+        <blockquote>
+          <form method="get" class="scSubject" action="">
+            <select name="menu1" id="b" onchange=
+          "MM_jumpMenu('parent',this,0)" style=
+          "height:19px;background: white no-repeat scroll 0%; width:405px;">
+              <option value="subjects.html">
+                Browse a Category
+              </option>
+              
+              <option value="african_studies.html">
+                African Studies
+              </option>
+              
+              <option value="african.html">
+                African American Studies
+              </option>
+              
+               <option value="aging.html">
+               Aging
+              </option>
+              
+              <option value="american.html">
+                American Studies
+              </option>
+              
+              <option value="animal_soc.html">
+                Animals, &amp; Society
+              </option>
+              
+              <option value="anthropology.html">
+                Anthropology
+              </option>
+              
+              <option value="art.html">
+                Art &amp; Photography
+              </option>
+              
+              <option value="asian.html">
+                Asian Studies
+              </option>
+              
+              <option value="asian_amer.html">
+                Asian American Studies
+              </option>
+              
+              <option value="biography.html">
+                Biography/Memoir/Autobiography
+              </option>
+              
+              <option value="business.html">
+                Business/Economics
+              </option>
+              
+              <option value="cinema.html">
+                Cinema Studies
+              </option>
+              
+              <option value="children.html">
+                Children's Books
+              </option>
+              
+              <option value="social.html">
+                Community Organizing and Social Movements
+              </option>
+              
+              <option value="cultural.html">
+                Cultural Studies
+              </option>
+              
+                            <option value="death.html">
+       Death and Dying
+              </option>
+              
+              <option value="disability.html">
+                Disability Studies
+              </option>
+              
+              <option value="education.html">
+                Education
+              </option>
+              
+              <option value="family.html">
+                Family Policy
+              </option>
+              
+              <option value="gender.html">
+                Gender Studies
+              </option>
+              
+              <option value="general.html">
+                General Interest
+              </option>
+              
+              <option value="geography.html">
+                Geography
+              </option>
+              
+              <option value="health.html">
+                Health &amp; Health Policy
+              </option>
+              
+              <option value="history.html">
+                History
+              </option>
+              
+              <option value="immigration.html">
+                Immigration Studies
+              </option>
+              
+              <option value="jewish.html">
+                Jewish Studies
+              </option>
+              
+              <option value="labor.html">
+                Labor Studies &amp; Work
+              </option>
+              
+              <option value="latin.html">
+                Latin Am/Carib. Studies
+              </option>
+              
+              <option value="latino.html">
+                Latino/a Studies
+              </option>
+              
+              <option value="law.html">
+                Law &amp; Criminology
+              </option>
+              
+              <option value="literature.html">
+                Literature &amp; Drama
+              </option>
+              
+              <option value="mass_media.html">
+                Mass Media &amp; Com.
+              </option>
+              
+              <option value="music.html">
+                Music &amp; Dance
+              </option>
+              
+              <option value="nature.html">
+                Nature &amp; Environment
+              </option>
+              
+              <option value="philly.html">
+                Philadelphia Region
+              </option>
+              
+              <option value="philosophy.html">
+                Philosophy &amp; Ethics
+              </option>
+              
+              <option value="political.html">
+                PoliSci &amp; Public Policy
+              </option>
+              
+              <option value="psycho.html">
+                Psychology
+              </option>
+              
+              <option value="race.html">
+                Race &amp; Ethnicity
+              </option>
+              
+              <option value="religion.html">
+                Religion
+              </option>
+              
+              <option value="science.html">
+                Science
+              </option>
+              
+              <option value="sexual.html">
+                Sexuality Studies/Sexual Identity
+              </option>
+              
+              <option value="sociology.html">
+                Sociology
+              </option>
+              
+              <option value="sports.html">
+                Sports
+              </option>
+              
+              <option value="technology.html">
+                Technology
+              </option>
+              
+              <option value="urban.html">
+                Urban Studies
+              </option>
+              
+              <option value="women.html">
+                Women's Studies
+              </option>
+              
+              <option value="youth.html">
+              Youth Studies
+              </option>
+            </select>
+          </form>
+        </blockquote>
+      </div>
+    </div>
+
+    <div id="scNav">
+      <ul class="sf-menu">
+        <li style="width:216px;">&nbsp;</li>
+
+        <li><a href="index.html">Home</a></li>
+
+        <li>
+          <a href="books.html">Our Books</a><ul>
+		  	<li><a href="awards.html">Award-Winning Books</a></li>
+			<li><a href="subjects.html">Subject Index</a></li>
+           <li> <a href="series.html">Series Listing</a></li>
+			<li><a href="studyguides/index.html">Study Guides</a></li>
+
+          </ul>
+        </li>
+        
+          <li>
+			<a href="journals.html">Journals</a>
+<ul>
+      	  <li><a href="https://tupjournals.temple.edu/index.php/commonwealth/index">Commonwealth</a></li>
+             	<li><a href="https://tupjournals.temple.edu/index.php/kalfou/index">Kalfou</a></li>
+            </ul>
+		</li>
+              
+
+        <li><a href="contact.html">Contact Us</a></li>
+
+        <li>
+			<a href="order.html">Place an Order</a>
+			<ul>
+				<li><a href="online_info.html" title="Secure ordering online">Online Ordering</a></li>
+				<li><a href="payment.html" title="The fine print">Payment Terms</a></li>
+				<li><a href="exam_copy.html" title="Request a book for course adoption">Exam &amp; Desk Copy Policy</a></li>
+				<li><a href="sales_reps.html" title="Find a local sales rep">Sales Representatives</a></li>
+			</ul>		
+		</li>
+
+        <li>
+			<a href="br.html">Media</a>
+			<ul>
+			      	<li><a href="conferences.html">Conferences</a></li>
+              	<li><a href="calendar.html">Events Calendar</a></li>
+             	<li><a href="review_copy.html">Request a Review Copy</a></li>
+            </ul>
+		</li>
+		
+        <li>
+			<a href="press.html">Press Info</a>
+			<ul>
+				<li><a href="people.html" title="Meet the people who run the Press">People at the Press</a> </li>             
+            	<li><a href="rights.html" title="Copyright Policy">Rights and Permissions</a></li>
+				<li><a href="foreign_rights.html">Foreign Rights Agents</a> </li>
+				<li><a href="submissions.html" title="Manuscript Submission Information">Submissions</a></li>
+        <li><a href="univpresses.html" title="About University Presses">About University Presses</a></li>
+				<li><a href="download.html" title="Download Central for Authors">Download Documents</a></li>
+				<li><a href="faq.html" title="Frequently Asked Questions">FAQ</a></li>
+			</ul>
+		</li>
+
+        <li>
+          <a href="links.html">Links</a>        
+        </li>
+      </ul>
+    </div>
+    <table style="*margin-top:13px;">
+      <tr><td style="width:750px;padding-left:3px;">
+   
+         <div id="slider-wrapper"><div id="slider" class="nivoSlider"> 
+         
+			  <!-- <a href="titles/2012_reg.html"><img src="img/Slider_Conf1.gif" alt="Join us at Criminology 2017" /></a>
+             
+			  <a href="philly.html"><img src="img/Slider_Misc2.gif" alt="Happy Holidays" /></a>  
+			             
+               
+                 <a href="titles/1839_reg.html"><img src="img/Slider_Book6.gif" alt="Catto Statue Unveiling 9/26/17" /></a>
+                
+                <a href="titles/1839_reg.html"><img src="img/Slider_Event1.gif" alt="New in Paperback - TASTING FREEDOM" /></a> 
+                
+                
+				<a href="journals.html"><img src="img/journals.gif" alt="New Issues Available KALFOU and COMMONWEALTH" /></a>
+
+				 <a href="titles/2375_reg.html"><img src="img/BoathouseRow.gif" alt="Now Available Boathouse Row" /></a>
+                                         
+                	 <a href="history.html"><img src="img/Slider_Conf1.gif" alt="Join us at OAH 2018" /></a>
+
+ <a href="literature.html"><img src="img/Slider_Misc4.gif" alt="Poetry Month 2018" /></a> 
+          
+ 
+-->
+			 <a href="catalogs/fall2018.html"><img src="http://tupress.temple.edu/uploads/highlight/images/Fa18_catalog.jpg" /></a> 
+			 
+		 <a href="titles/1877_reg.html"><img src="img/Slider_Event1.gif" alt="Happy Birthday Frankie Manning" /></a> 
+
+			 
+			 
+			 <a href="titles/2456_reg.html"><img src="img/Slider_Misc5.gif" alt="Phil Jasner" /></a> 
+			 
+		<a href="titles/1830A_reg.html"><img src="img/Slider_Misc1.gif" alt="Superbowl 52" /></a> 
+
+          	<a href="titles/1761_reg.html"><img src="img/Slider_Misc3.gif" alt="READ ACROSS AMERICA" /></a>  
+			 
+			 <a href="titles/2433_reg.html"><img src="img/Slider_Book4.gif" alt="President's Day" /></a>
+
+     
+			
+			 
+			 <a href="titles/2381_reg.html"><img src="img/Slider_Book2.gif" alt="Finding the Hidden City" /></a>
+        
+           <!-- HOLD DURING BLACK HISTORY MONTH
+              <a href="titles/2453_reg.html"><img src="img/Slider_Book3.gif" alt="Curry - The Man-Not" /></a> 
+              
+           
+              <a href="titles/2411_reg.html"><img src="img/Kaukinen.gif" alt="Now Available Addressing Violence Against Women on College Campuses" /></a>
+                 
+             -->
+             
+                
+         
+     
+               
+
+           
+            </div>
+            <div id="htmlcaption0" class="nivo-html-caption">
+
+            </div>
+        
+        </div>
+    <script type="text/javascript" src="jquery.nivo.slider.pack.js"></script>
+    <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+
+	<!--<img src="http://placehold.it/700x332/000"  style="margin-left:10px;"/>-->
+      
+ <div class="scInTheNews"><img src="img/news.gif" alt="In The News"
+        style="display:block; clear:both; padding:10px 0 10px 10px;" />  
+ 
+  <!-- 
+		 
+          LANDSCAPE BOOK
+   <p><a href="titles/2375_reg.html"><img src="small/2375_90.gif" alt="Boathouse Row" width="90" height="70
+         " border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+	  Dotty Brown, author of <a href="titles/2375_reg.html"><em>Boathouse Row</em></a>, will present her book at <a href="http://parkcharms.com/lemon-hill" target="new">Lemon Hill Mansion</a>, 1 Lemon Hill Drive, on November 12 at 2:00 pm, [Admission is $10; light refreshments will be served].</p>
+
+ 
+		
+    OVERSIZED BOOK
+
+    <p><a href="titles/2381_reg.html"><img src="small/2381_90.gif" alt="Philadelphia" width="60" height="90
+         " border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+		Here's the premiere of our new video for Philadelphia: Finding the Hidden City with authors Nathaniel Popkin and Peter Woodall, with photographs by Joseph E. B. Elliott</p>
+
+
+	   <p><a href="https://tupjournals.temple.edu/index.php/kalfou/index"><img src="small/2358_90.gif" alt="Kalfou" width="60" height="91" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+			  
+			  <a href="https://tupjournals.temple.edu/index.php/kalfou/index">KALFOU Volume 4, issue 2</a> is now available </p>-->
+
+	
+	<!--
+ <p><a href="titles/2381_reg.html"><img src="small/2381_90.gif" alt="Philadelphia: Finding the Hidden City" width="70" height="90" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+
+Joseph Elliott,  Nathaniel Popkin and Peter Woodall, co-authors of <a href="titles/2381_reg.html"><em>Philadelphia: Finding the Hidden City</em> </a>were guests on <a href="http://wogl.radio.com/2017/12/18/philadelphia-agenda-hidden-city/" target="new"><em>Philadelphia Agenda</em></a>, a local radio program that aired on the following stations: <a href="http://wogl.radio.com/" target="new">WOGL</a> 98.1 FM, <a href="http://todays965.radio.com/" target="new">WTDY</a> 96.5 FM and <a href="http://925xtu.radio.com/" target="new">WXTU</a> 92.5 FM </p>	
+-->
+
+
+     
+      <!--	  <p><a href="titles/2456_reg.html"><img src="small/2456_90.gif" alt="Phil Jasner "On the Case""width="60" height="91" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+			  
+			 Andy Jasner, editor of  <em><a href="titles/2456_reg.html">Phil Jasner "On the Case,"</a></em> will read from and sign his book at the <a href="https://stores.barnesandnoble.com/store/2664" target="_new">Barnes and Noble Bookstore</a> 200 W. Route 70 in Marlton, NJ, on February 24 at 2:00 pm.  </li>
+		  
+		  </p>
+	
+
+-->
+
+	<p><a href="titles/2506_reg.html"><img src="small/2506_90.gif" alt="Biz Mackey, a Giant behind the Plate"width="60" height="90" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+			  
+		Michael Smerconish, will speak and sign copies of his book <em><a href="titles/2506_reg.html">Clowns to the Left of Me, Jokers to the Right</a></em> 7 p.m. on May 31st at the <a href="https://upperdublinlibrary.org/" target=new>Upper Dublin Public Library</a>, 805 Loch Alsh Avenue Fort Washington, PA 19034
+</li>
+		  
+ 
+		  </p>
+
+		 
+<p><a href="titles/2440_reg.html"><img src="small/2440_90.gif" alt="Risking Life and Lens" width="60" height="90" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+
+	<a href="titles/2440_reg.html"><em>Risking Life and Lens</em></a> author, Helen M. Stummer's artwork is on exhibit through June 29,2018 at <a href="https://www.icp.org/events" target="_blank">Mana Contemporary Art Center</a>, 888 Newark Avenue, Jersey City. </p>	
+		
+	<p><a href="titles/2409_reg.html"><img src="small/2409_90.gif" alt="Consuming Catastrophe" width="60" height="90" border="1" style="margin: 0pt 0pt 0pt 30px; border:1px solid #aaa" /></a><br />
+		
+
+		The 2018 American Sociological Association's <a href="http://www.asanet.org/asa-communities/sections/sociology-emotions" target="new">Sociology of Emotions Section</a> awards Timothy Recuber's <a href="titles/2409_reg.html"><em>
+Consuming Catastrophe</em></a> this year's Recent Contribution Award. 
+		
+	 </p>
+ 
+	
+    <P>
+    </div>
+<div id="scHotOffThePress">
+        <img src="img/hotoffthepress.gif" alt="Hot Off The Press"
+        style="float:left; display:block; clear:both; padding-left:10px;" /><br />
+
+
+        <ul class="scHotBooks">
+       <br /><br />
+			
+		<p>
+			
+			 <li><a href="titles/2490_reg.html"><img src="small/2490_sm.gif" alt="Charles E. Hires" width="100" height="150" border="1" align="top" style="border:1px solid #aaa;" /></a><a href=
+          "titles/2490_reg.html"><span class="scBookTitle">Charles E. Hires and the Drink that Wowed a Nation</span><br />
+The Life and Times of a Philadelphia Entrepreneur	
+</a><br>
+
+Bill Double
+ 
+<br />
+				 <p><em>"Charles Hires, the creator of Hires Root Beer and a pioneer in the soft drink industry, has never received his due as an innovator. Bill Double has filled that void in a fascinating book that places Hires firmly in his times, using new advertising techniques during the Gilded Age and then adapting them with modern methods into the Roaring Twenties. </em>Charles E. Hires and the Drink that Wowed a Nation<em> is a must-read for anyone interested in the history of soft drinks and the era that spawned them."
+			</em><br>&#8212;<b>Mark Pendergrast</b>, author of <em>For God, Country and Coca-Cola: The Definitive History of the Great American Soft Drink and the Company That Makes It</em><br />
+				
+        </li><br/>
+					
+		
+			 <li><a href="titles/2264_reg.html"><img src="small/2264_sm.gif" alt="Architectures of Revolt" width="100" height="150" border="1" align="top" style="border:1px solid #aaa;" /></a><a href=
+          "titles/2264_reg.html"><span class="scBookTitle">Architectures of Revolt</span><br />
+The Cinematic City circa 1968
+
+</a><br>
+
+Edited by Mark Shiel
+ 
+ 
+<br />
+				 <p><i>"Mark Shiel has produced the first volume of its kind and, indeed, </i>Architectures of Revolt<i> is a must-read book on film and architecture that maps a fascinating journey into the intertwining paths between political revolution and revolutionary cinematic practices."</i>
+				 <br>&#8212;<b>Richard Koeck</b>, University of Liverpool, Director of the Centre for Architecture and Visual Arts<br />
+				
+				</p>
+        </li>
+		<p>
+       		
+				 <li><a href="titles/2504_reg.html"><img src="small/2504_sm.gif" alt="Comic China" width="100" height="150" border="1" align="top" style="border:1px solid #aaa;" /></a><a href=
+          "titles/2504_reg.html"><span class="scBookTitle">Comic China</span><br />
+Representing Common Ground, 1890&#8211;1945
+
+</a><br>
+
+Wendy Gan
+
+ 
+<br />
+				 <p><i>"A well-balanced and exceptionally readable study of how humor functions in the realm of Anglo-Chinese encounters, </i>Comic China<i> challenges notions of Orientalism, the exotic, and constructions of 'face.' This refreshing account of how humor can subvert or recast hierarchies in the different contact zones features a lively and engaging tone that provides a good hinge for the book's linkage of comedy and geopolitics. </i>Comic China<i> is a valuable addition to the vibrant field of studies that 'China and the West' is now becoming."<br/></i>
+				 &#8212;<b>Ross Forman</b>, University of Warwick and author of <i>China and the Victorian Imagination: Empires Entwined</i><br />
+				
+				</p>
+        </li>
+		<p>
+			
+			
+				<li><a href="titles/2506_reg.html"><img src="small/2506_sm.gif" alt="Clowns to the Left of Me, Jokers to the Right" width="100" height="150" border="1" align="top" style="border:1px solid #aaa;" /></a><a href=
+          "titles/2506_reg.html"><span class="scBookTitle">Clowns to the Left of Me, Jokers to the Right
+</span><br />
+American Life in Columns
+
+</a><br>
+
+Michael A. Smerconish
+With a Foreword by David Axelrod
+ 
+
+<br />
+					<p><em>"Michael Smerconish is the rare political observer who can get pumped up over important, weighty subjects like gerrymandering and closed primaries. He's a post-partisan problem solver who is trying to restore sanity to the 
+political process. If only more of the country could be as passionate as Smerconish about the need for change, we could end partisan gridlock and 
+get our politicians working for the people again…. [A]n entertaining collection of 100 of [Smerconish’s] engaging newspaper columns written in a post-9/11 world, each followed by a new Afterword. Fire up a stogie and enjoy this book."
+            </em><br />
+				&#8212;<strong>Governor Arnold Schwarzenegger</strong>    </p>
+        </li>
+					
+			
+			
+			
+		
+			 <li><a href="titles/2470_reg.html"><img src="small/2470_sm.gif" alt="In Defense of Public Lands" width="100" height="150" border="1" align="top" style="border:1px solid #aaa;" /></a><a href=
+          "titles/2470_reg.html"><span class="scBookTitle">In Defense of Public Lands</span><br />
+The Case against Privatization and Transfer
+</a><br>
+
+Steven Davis
+ 
+<br />
+				 <p><em>"</em>In Defense of Public Lands <em>delivers exactly what it promises: a forceful defense of public lands at a crucial moment in American history. After presenting the views of critics of public lands, Davis carefully dismantles their arguments and counters with a compelling set of arguments that draw on history, politics, ecology, and economics to show why our public lands are an irreplaceable national treasure."</em>
+					 <br/				 <br>&#8212;<b>James Morton Turner</b>, Associate Professor, Wellesley College, and author of <em>The Promise of Wilderness: American Environmental Politics since 1964</em><br />
+				
+				</p>
+        </li>
+	
+       
+          </ul>
+      </div>
+      </td>
+      <td style="width:200px; vertical-align:top;">
+  
+
+    <div id="scSide">
+      <div class="center" id="scNews">
+        Subscribe to our monthly newsletter for info about new
+        books and website content.
+
+        <form action=
+        "http://www.temple.edu/cgi-bin/mail?tempress@temple.edu"
+        method="post" name="NewsletterSubscription" style=
+        "margin-top:7px;">
+          <input name="email" type="text" class="small" onblur=
+          "if(this.value=='') this.value='Enter your email...';"
+          onfocus=
+          "if(this.value=='Enter your email...') this.value='';"
+          value="Enter your email..." size="25" /> <input type=
+          "hidden" name="subject" value=
+          "Newsletter Subscription" /><input class="small" type=
+          "submit" value="Subscribe!" name="submit" onclick=
+          "MM_validateForm('email','','RisEmail');return document.MM_returnValue"
+          style="margin-top:7px;" /><input type="hidden" name=
+          "next-url" value=
+          "http://www.temple.edu/tempress/received_subscription.html" />
+        </form>
+      </div><br />
+
+
+      <div id="scBlurbs" style="margin:25px 0 0 0;">
+        <a href="http://templepress.wordpress.com/"><img src=
+        "img/visit.gif" style=
+        "border-bottom:1px solid #a6a6a6; padding:0 15px 0 15px; margin-left:7px;" alt="North Philly Notes" /></a>
+
+		  <div class="scBlogContent"> This week in <a href="https://templepress.wordpress.com/2018/05/23/arguing-against-public-land-privatization-and-transfer/" target="new">North Philly Notes</a>, Steven Davis author of <a href="titles/2470_reg.html"><em>In Defense of Public Lands</em></a>, provides his arguments for why privatization, transfer, and deregulation of our public land are disastrously bad policies.
+<p></div>
+		
+	  </div>
+      <p class="center" style="margin-top:6px;">Follow us!<br />
+      <a href="http://twitter.com/TempleUnivPress" target=
+      "new"><img src="img/twitter-icon.png" border="0" alt=
+      "Twitter" title="Twitter" /></a> <a href=
+      "http://www.facebook.com/pages/Temple-University-Press/21638877349?ref=s"
+      target="new"><img src="img/facebook-icon.png" border="0" alt=
+      "Facebook" title="Facebook" /></a></p><br />
+
+	  
+	  <p style="margin:0 auto;display:block; text-align:center;margin-bottom:30px;"><a href="https://advancement-sec.temple.edu/s/705/giving/16/interior_1col.aspx?sid=705&gid=1&pgid=3813&cid=5100&bledit=1&dids=69.5"><img src="img/Give_TUP.gif" border="0" title="Your gift to Temple University Press supports the publication of original and important books on Philadelphia and the region as well as affordable, award-winning books in the humanities and social sciences." /><br />
+
+	
+	  </a></p>
+     	  
+     	  
+      	  <p style="margin:0 auto;display:block; text-align:center;margin-bottom:30px;"><a href="http://www.temple.edu/tempress/philly.html"><img src="img/phila.jpg" border="0" alt="Philadelphia region" /><br />
+
+
+	  Books on the <br />Philadelphia region
+	  </a></p>
+
+			<p style="text-align:center;padding:10px 0 10px 0; font-weight:bold; color:#990033">Fall 2018 Catalog</p>
+			<a href="catalogs/fall2018.html"><img src="http://tupress.temple.edu/uploads/season/images/Temple_FA18_FINAL_cover_sm-3.jpg" alt="Fall 2018 Catalog" height="209" border="0" style="display:block; margin: 0 auto;" /></a>
+       	  <p style="text-align:center;font-weight:bold; color:#990033">Click <a href="http://tupress.temple.edu/uploads/seasons/Temple_FA18_FINAL_full_sm.pdf">here</a> for PDF</p>
+		  <p>&nbsp;</p><p>&nbsp;</p>
+       <p style="text-align:center;padding:10px 0 10px 0; font-weight:bold; color:#990033">Books for Course Adoption</p>
+      <div class="slideshow" style="margin:15px 0 0 15px;">
+	  <!--all of these p blocks are slides in the slideshow-->   
+          
+		  
+            <p align="center"><a href=
+        "http://www.temple.edu/tempress/titles/2472_reg.html"><img src="http://www.temple.edu/tempress/titles/2472_reg.gif"
+        width="133" height="200" alt="Latino Mayors" style="border:1px solid #555" /></a><br />
+       Latino Mayors</p>
+		  
+            <p align="center"><a href=
+        "http://www.temple.edu/tempress/titles/2426_reg.html"><img src="http://www.temple.edu/tempress/titles/2426_reg.gif"
+        width="133" height="200" alt="From Slave Ship to Supermax" style="border:1px solid #555" /></a><br />
+      From Slave Ship to Supermax</p>
+		  
+		  
+            <p align="center"><a href=
+        "http://www.temple.edu/tempress/titles/2405_reg.html"><img src="http://www.temple.edu/tempress/titles/2405_reg.gif"
+        width="133" height="200" alt="Against Capital in the Twenty-First Century" style="border:1px solid #555" /></a>Against Capital in the Twenty-First Century<br />
+      </p>
+           
+                <p align="center"><a href="http://www.temple.edu/tempress/titles/2012_reg.html"><img src="http://www.temple.edu/tempress/titles/2012_reg.gif" alt="Communities and Crime" width="133" height="200" style="border:1px solid #555" /></a>Communities and Crime<br />
+      </p>
+      
+                <p align="center"><a href="http://www.temple.edu/tempress/titles/2449_reg.html"><img src="http://www.temple.edu/tempress/titles/2449_reg.gif" alt="Selling Transracial Adoption" width="133" height="200" style="border:1px solid #555" /></a>Selling Transracial Adoption<br />
+      </p>
+               
+       	    <p align="center"><a href=
+        "http://www.temple.edu/tempress/titles/2433_reg.html"><img src="http://www.temple.edu/tempress/titles/2433_reg.gif"
+        width="133" height="200" alt="Why Veterans Run " style="border:1px solid #555" /></a><br> Why Veterans Run <br />
+       </p>
+       	  
+    
+    <p align="center"><a href=
+        "http://www.temple.edu/tempress/titles/2334_reg.html"><img src="http://www.temple.edu/tempress/titles/2334_reg.gif"
+        width="133" height="200" alt="Reimagining Courts" style="border:1px solid #555" /></a><br />
+    Reimagining Courts</p>
+                 
+      	  	
+
+      </div><!--End slideshow div-->
+	</div>
+    </td>
+    </tr>
+  </table>
+  </div>
+ 
+<p style="text-align:center;color:#989898;padding-top:30px">Temple University Press, TASB, 1852 N. 10th Street,
+    Philadelphia, PA 19122</p>
+
+    <p style="text-align:center;color:#989898;padding-bottom:15px;"><a href="copyright.html" style="color:#fff;">&copy;</a>2006-2011 <a href=
+    "http://www.temple.edu" target="new" style="color:#fff;">Temple University</a> |
+    All Rights Reserved.</p>
+ 
+</body>
+</html>

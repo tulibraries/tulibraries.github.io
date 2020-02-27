@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<HTML>
+<HEAD>
+<!-- #BeginEditable "doctitle" -->
+<TITLE>Events Calendar</TITLE>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../general.css" type="text/css">
+</HEAD>
+
+<!-- Site designed by D a w n  D a n i s h, Copyright 2000-2002 Temple University.  All Rights Reserved. -->
+
+<BODY bgcolor="#FFFFFF" TEXT="#000000" LINK="#3152A5" VLINK="#4B0082" ALINK="#990033">
+<center>
+<font face="Times" size="3">
+
+<!-- top banner -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+      <td valign="top" align="left" width="100%"><!-- #BeginEditable "header" --><img src="../img/calendarheader.gif" border="0" width="649" height="71" alt="Press Events Calendar"><!-- #EndEditable --></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+
+</table>		
+
+
+<!-- main content table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td valign="top" align="left" width="200" background="../img/peach.gif">
+<!-- left menu -->
+		<img src="../img/peachdot.gif" border="0" width="200" height="1">	
+		<table border="0" cellspacing="0" cellpadding="2" width="100%">
+			<tr valign="top">
+				<td valign="top" align="left" nowrap><img src="../img/peachdot.gif" border="0" width="2" height="8"></td>
+				
+            <td valign="top" align="left" nowrap><a href="../calendar.html" onMouseOver="window.status='Check out the happenings at Temple Press';return true;" onMouseOut="window.status=''" title="Check out the happenings at Temple Press"><font face="Arial" size="2"><b>Events 
+              Calendar</b></font></a><br>
+              <font size="2">&nbsp;&nbsp;Author appearances,<br>
+              &nbsp;&nbsp;conferences, and more</font><br>
+              <img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+              <a href="../conferences.html" onMouseOver="window.status='Conferences';return true;" onMouseOut="window.status=''" title="Conferences"><font face="Arial" size="2"><b>Conference 
+              Booths</b></font></a><br>
+              <font size="2">&nbsp;&nbsp;Conference information<br>
+              &nbsp;&nbsp;and discounts</font><br>
+              <img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+              <a href="../reviews.html" onMouseOver="window.status='Hot off the press';return true;" onMouseOut="window.status=''" title="Hot off the press"><font face="Arial" size="2"><b>Recent 
+              Reviews</b></font></a><br>
+              <font size="2">&nbsp;&nbsp;What the critics say<br>
+              &nbsp;&nbsp;about our books</font><br>
+              <img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+              <a href="../review_copy.html" onMouseOver="window.status='Interested in a book to review?';return true;" onMouseOut="window.status=''" title="Interested in a book to review?"><font face="Arial" size="2"><b>Request 
+              a Review Copy</b></font></a><br>
+              <font size="2">&nbsp;&nbsp;</font><br>
+				<img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td valign="top" align="left">
+
+<!-- body table -->
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+				</tr>
+				<tr align="center">
+					<td valign="top" align="left" nowrap><font face="Arial" size="1">&nbsp;<a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a>
+					| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+					| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+					| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+					| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+					| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+					| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+					| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+					| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+					</font></td>
+				</tr>
+				<tr>
+					<td><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+				</tr>
+			</table>
+			
+        <!-- #BeginEditable "body%20table" -->
+        <table border="0" cellspacing="0" cellpadding="12" width="100%">
+          <tr> 
+            <td valign="top" align="center" width="542"> 
+              <table border="1" cellspacing="2" cellpadding="2" width="75%">
+                <tr> 
+                  <td align="center"><font face="Arial" size="2"><a href="../january.html" OnMouseOver="window.status='January Events';return true;" OnMouseOut="window.status=''" TITLE="January Events">January</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../february.html" OnMouseOver="window.status='February Events';return true;" OnMouseOut="window.status=''" TITLE="February Events">February</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../march.html" OnMouseOver="window.status='March Events';return true;" OnMouseOut="window.status=''" TITLE="March Events">March</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../april.html" OnMouseOver="window.status='April Events';return true;" OnMouseOut="window.status=''" TITLE="April Events">April</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../may.html" OnMouseOver="window.status='May Events';return true;" OnMouseOut="window.status=''" TITLE="May Events">May</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../june.html" OnMouseOver="window.status='June Events';return true;" OnMouseOut="window.status=''" TITLE="June Events">June</a></font></td>
+                </tr>
+                <tr> 
+                  <td align="center"><font face="Arial" size="2"><a href="../july.html" OnMouseOver="window.status='July Events';return true;" OnMouseOut="window.status=''" TITLE="July Events">July</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../august.html" OnMouseOver="window.status='August Events';return true;" OnMouseOut="window.status=''" TITLE="August Events">August</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../september.html" OnMouseOver="window.status='September Events';return true;" OnMouseOut="window.status=''" TITLE="September Events">September</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../october.html" OnMouseOver="window.status='October Events';return true;" OnMouseOut="window.status=''" TITLE="October Events">October</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../november.html" OnMouseOver="window.status='November Events';return true;" OnMouseOut="window.status=''" TITLE="November Events">November</a></font></td>
+                  <td align="center"><font face="Arial" size="2"><a href="../december.html" OnMouseOver="window.status='December Events';return true;" OnMouseOut="window.status=''" TITLE="December Events">December</a></font></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr> 
+            <td> 
+              <p align="center"><B>April 2002</B> 
+              <UL>
+                <li> 
+                  <p>5: Judge James P. Gray, author of <i><a href="../titles/1589_reg.html">Why 
+                    Our Drug Laws Have Failed and What We Can Do About It: A Judicial 
+                    Indictment of the War on Drugs</a></i>, will be debating the 
+                    issue of Drug Laws on Radio Times (Philadelphia) from 10:00-11:00 
+                    AM. 
+                  <p> 
+                <li> 
+                  <p>7: The Philadelphia Social Forum Looks at American Drug Policy 
+                    and its Effects with Judge James P. Gray, author of <i><a href="../titles/1589_reg.html">Why 
+                    Our Drug Laws Have Failed and What We Can Do About It: A Judicial 
+                    Indictment of the War on Drugs</a></i>, at Robin’s Bookstore 
+                    (108 S. 13th Street, Philadelphia; Phone: 215-735-9600, Email: 
+                    <a href="mailto:reading@robinsbookstore.com">reading@robinsbookstore.com</a>) 
+                    at 3:00 PM. 
+                  <p> 
+                <li> 
+                  <p>8: Judge James P. Gray, author of <i><a href="../titles/1589_reg.html">Why 
+                    Our Drug Laws Have Failed and What We Can Do About It: A Judicial 
+                    Indictment of the War on Drugs</a></i>, will be at the Temple 
+                    Law School Forum from 9:00 AM-12:00 PM to speak on the subject 
+                    of Drug Laws with a panel of participants including Judge 
+                    Renee Cardwell Hughes, Judge John T. Curtin, Judge John Kane, 
+                    and Judge Kevin Zeese. 
+                  <p> 
+                <li> 
+                  <p>8: Judge James P. Gray, author of <i><a href="../titles/1589_reg.html">Why 
+                    Our Drug Laws Have Failed and What We Can Do About It: A Judicial 
+                    Indictment of the War on Drugs</a></i>, will be at the White 
+                    Dog Cafe (3420 Sansom St., Philadelphia) for Table Talks. 
+                    Beginning at 6:00 PM, the event include a three course dinner, 
+                    followed by speaker and discussion from 7:30-9:00 PM. 
+                  <p> 
+                <li> 
+                  <p>12-13: Deb Willis , co-author of <i><a href="../titles/1356_reg.html">The 
+                    Black Female Body: A Photographic History</a></i>, is a featured 
+                    speaker at the 13th Annual James A. Porter Colloquium on African 
+                    American Art that will be held at Howard University (Tel: 
+                    202-806-7072). There will be a booksigning on Friday afternoon 
+                    at 3:00 PM in the Blackburn Center on the campus. 
+                  <p> 
+              </UL>
+            </td>
+          </tr>
+        </table>
+        <!-- #EndEditable --></td>
+	</tr>
+</table>
+
+<!-- footer table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a>
+		| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+		| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+		| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+		| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+		| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+		| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+		| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+		| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+		</font></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		
+      <td width="50%" valign="top" align="left" nowrap><font face="Arial" size="1"> 
+        <a href="../copyright.html" OnMouseOver="window.status='Web Copyright Policy';return true;" OnMouseOut="window.status=''" TITLE="Web Copyright Policy">&copy;</a> 
+        2002 <a href="http://www.temple.edu" target="new" OnMouseOver="window.status='Link to Temple University home page';return true;" OnMouseOut="window.status=''" TITLE="Link to Temple University home page">Temple 
+        University</a>. All Rights Reserved.<br>
+		</font></td>
+		<td width="50%" valign="top" align="right" nowrap><font face="Arial" size="1">		<a href="mailto:tempress@temple.edu"> Webmaster</a><br>
+	  </font></td>
+	</tr>
+</table>
+</font>
+</center>
+</BODY>
+</HTML>

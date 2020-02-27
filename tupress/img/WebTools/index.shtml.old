@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>Temple University Web Utilities</title>
+<link href="/FTU/cs_style.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+<!--
+.style4 {font-size: 12px}
+-->
+</style>
+</head>
+
+<body bgcolor="#CCccCC" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div align="center">
+<table width="650" cellspacing="0" cellpadding="0" height="49" border="0">
+<tr bgcolor="#009999">
+<td width="624"><img src="/FTU/logo.gif" alt="Temple University Computer Services" width="624" height="81"></td>
+<td width="35">&nbsp; </td>
+<td width="65">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</table>
+<table width="650" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td><img src="/FTU/blackline.gif" ALT="Black Line" width="650" height="1"></td>
+</tr>
+<tr bgcolor="#990000">
+<td height="25">
+<div align="center"><font color="#FFFFFF" size="3" face="Verdana, Arial, Helvetica, sans-serif"> <strong>TEMPLE UNIVERSITY WEB   UTILITIES</strong><br>
+</font></div>
+</td>
+</tr>
+<tr>
+<td><img src="/FTU/blackline.gif" ALT="Black Line"  width="650" height="1"></td>
+</tr>
+</table>
+<table width="650" cellspacing="0" cellpadding="0" height="72" border="0">
+<tr>
+<td width="150" valign="top" bgcolor="#006666" height="344"><p align="center">          <img src="/FTU/lab.jpg" alt="Lab Image" width="188" height="137"></p>
+<table width="187" border="0" cellspacing="0" cellpadding="1">
+<tr class="whitenav">
+<td width="6" bgcolor="#009999"></td>
+<td width="177" bgcolor="#009999" class="whitenav"><a href="http://www.temple.edu/cs" class="whitenav">CS Home </a></td>
+</tr>
+<tr class="whitenav">
+<td width="6">&nbsp;</td>
+<td width="177" class="whitenav"></td>
+</tr>
+<tr bgcolor="#009999" class="whitenav">
+<td>&nbsp;</td>
+<td bgcolor="#009999" class="whitenav"><a href="http://www.temple.edu/cs/helpdesk" class="whitenav">Help Desk Home</a></td>
+</tr>
+<tr class="whitenav">
+<td>&nbsp;</td>
+<td class="whitenav">&nbsp;</td>
+</tr>
+<tr bgcolor="#009999" class="whitenav">
+<td>&nbsp;</td>
+<td bgcolor="#009999" class="whitenav"><a href="http://www.temple.edu" class="whitenav">Temple Home</a></td>
+</tr>
+<tr class="whitenav">
+<td>&nbsp;</td>
+<td class="whitenav">&nbsp;</td>
+</tr>
+<tr bgcolor="#009999" class="whitenav">
+<td>&nbsp;</td>
+<td bgcolor="#009999" class="whitenav"><a href="http://www.temple.edu/webhelp" class="whitenav">WebHelp</a> </td>
+</tr>
+<tr class="whitenav">
+<td>&nbsp;</td>
+<td class="whitenav">&nbsp;</td>
+</tr>
+<tr class="whitenav">
+<td bgcolor="#009999">&nbsp;</td>
+<td bgcolor="#009999" class="whitenav"><a href="http://www.temple.edu/cs/helpdesk/contact/index.html" class="whitenav">Contact Us </a></td>
+</tr>
+<tr class="whitenav">
+<td>&nbsp;</td>
+<td class="whitenav">&nbsp;</td>
+</tr>
+</table></td>
+<td width="35" valign="top" bgcolor="#FFFFFF" height="344">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td width="428" valign="top" bgcolor="#FFFFFF" height="344"><p>&nbsp;</p>
+<ol>
+<!--#exec cgi="/links.asp?subweb=tempress/img"-->
+</ol>
+</td>
+
+<td width="37" valign="top" bgcolor="#FFFFFF" height="344">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</table>
+<table width="650" cellspacing="0" cellpadding="0" class="bottomtable" bgcolor="#009999" border="0">
+<tr valign="top">
+<td height="68">
+<div align="center"><img src="/FTU/blackline.gif" alt="Black Line" width="650" height="1"><br>
+<table cellspacing="0" cellpadding="0" align="center" border="0" width="90%">
+<tr valign="top">
+<td height="58">
+<p align="right"><font color="#FFFFFF"><br>
+<font size="1" face="Verdana, Arial, Helvetica, sans-serif">&copy; 
+Copyright 2004 Temple University Computer and Information Services.
+                  All Rights Reserved.<br>
+For  questions, please email </font></font><a href="mailto:webhelp@temple.edu"><b class="whitenav">webhelp@temple.edu</b></a></p>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr></table>
+</div>
+</body>
+</html>

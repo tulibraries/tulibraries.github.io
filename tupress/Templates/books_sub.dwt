@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>TUP: Award-winning Books</title>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../general.css" type="text/css">
+<!-- Site designed by D a w n  D a n i s h, Copyright 2000-2002 Temple University.  All Rights Reserved. --><!-- Backend Database & Programming by Vincent Lizzi, Copyright 2000-2002 Temple University.  All Rights Reserved. --></head>
+<body bgcolor="#FFFFFF" text="#000000" link="#3152A5" vlink="#4B0082" alink="#990033"><a href="../top"></a><!-- top banner -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+                
+    <td valign="top" align="left" width="100%"><!-- #BeginEditable "header" --><img src="../img/awardheader.gif" border="0" width="649" height="71" alt="Award-Winning Books"><!-- #EndEditable --></td>
+        </tr>
+        <tr>
+                <td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+        </tr>
+
+</table>
+
+<!-- main content table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr>
+<td valign="top" align="left" width="200" background="../img/tan.gif"><!-- left menu --><img src="../img/yellowdot.gif" border="0" width="200" height="1">
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+<tr valign="top">
+<td valign="top" align="left" nowrap>
+<img src="../img/yellowdot.gif" border="0" width="2" height="8">
+</td>
+<td valign="top" align="left" nowrap>
+<a href="../awards.html" OnMouseOver="window.status='Read about award-winning books';return true;" OnMouseOut="window.status=''" TITLE="Read about award-winning books"><B><font face="Arial" size="2">Award-Winners</font></B></a>
+<br><font size="2">&nbsp;&nbsp;Description of Awards,<br>&nbsp;&nbsp;List of Titles</font><br>
+<img src="../img/yellowdot.gif" border="0" width="2" height="8"><br>
+<a href="../bestsellers.html" OnMouseOver="window.status='Our most popular books';return true;" OnMouseOut="window.status=''" TITLE="Our most popular books"><b><font face="Arial" size="2">Bestsellers</font></b></a>
+<br><font size="2">&nbsp;&nbsp;Enticing Readers' Choice<br>&nbsp;&nbsp;Books & Authors</font><br><img src="../img/yellowdot.gif" border="0" width="2" height="8"><br><a href="../subject.html" OnMouseOver="window.status='Over 30 subject categories to browse';return true;" OnMouseOut="window.status=''" TITLE="Over 30 subject categories to browse"><b><font face="Arial" size="2">Subject Index</font></b></a><br><font size="2">&nbsp;&nbsp;African-American, Asian-<br>&nbsp;&nbsp;American Studies, Education,<br>&nbsp;&nbsp;Labor, Philadelphia, Sports...</font><br><img src="../img/yellowdot.gif" border="0" width="2" height="8"><br><a href="../series.html" OnMouseOver="window.status='Books in series';return true;" OnMouseOut="window.status=''" TITLE="Books in series"><b><font face="Arial" size="2">Series Listing</font></b></a><br><font size="2">&nbsp;&nbsp;Thirty active series of<br>&nbsp;&nbsp;books to peruse</font><br><img src="../img/yellowdot.gif" border="0" width="2" height="8"><br><a href="../catalogs.html" OnMouseOver="window.status='Seasonal catalogs from 1997 to 2001';return true;" OnMouseOut="window.status=''" TITLE="Seasonal catalogs from 1997 to 2001"><b><font face="Arial" size="2">Seasonal Catalogs</font></b></a><br><font size="2">&nbsp;&nbsp;Browse our books<br>&nbsp;&nbsp;by season</font><br><img src="../img/yellowdot.gif" border="0" width="2" height="8"><br><a href="../forthcoming.html" OnMouseOver="window.status='Available soon...';return true;" OnMouseOut="window.status=''" TITLE="Available soon..."><b><font face="Arial" size="2">Forthcoming Books</font></b></a><br><font size="2">&nbsp;&nbsp;Soon to be published</font><br></table>                </td>
+                <td valign="top" align="left">
+
+<!-- body table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr><td><img src="../img/spacer.gif" border="0" width="2" height="2"></td></tr>
+	<tr align="center"><td valign="top" align="left" nowrap><font face="Arial" size="1">&nbsp;<a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a> | <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+	| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+	| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+	| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+	| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+	| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+	| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+	| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a></font></td></tr>
+	<tr><td><img src="../img/spacer.gif" border="0" width="2" height="4"></td></tr>
+	<tr><td bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td></tr>
+	
+</table>
+      <!-- content info -->
+      <!-- #BeginEditable "body%20table" -->
+      <table border="0" cellspacing="0" cellpadding="12" width="100%">
+        <tr> 
+          <!-- text cell -->
+          <td align="left" valign="top" width="542"> 
+            <P> 
+            <P> 
+            <table border="0" cols="2" cellspacing="5" width="95%" cellpadding="0">
+              <tr> 
+                <td valign="top" colspan="2"> 
+                  <h2>Years</h2>
+                  <p> <a href="../awards-2002.html">2002</a>, <a href="../awards-2001.html">2001</a>, 
+                    <a href="../awards-2000.html">2000</a>, <a href="../awards-1999.html">1999</a>, 
+                    <a href="../awards-1998.html">1998</a>, <a href="../awards-1997.html">1997</a>, 
+                    <a href="../awards-1996.html">1996</a>, <a href="../awards-1995.html">1995</a>, 
+                    <a href="../awards-1994.html">1994</a>, <a href="../awards-1993.html">1993</a>, 
+                    <a href="../awards-1992.html">1992</a>, <a href="../awards-1991.html">1991</a>, 
+                    <a href="../awards-1990.html">1990</a>, <a href="../awards-1989.html">1989</a>, 
+                    <a href="../awards-1988.html">1988</a>, <a href="../awards-1987.html">1987</a>, 
+                    <a href="../awards-1986.html">1986</a>, <a href="../awards-1985.html">1985</a>, 
+                    <a href="../awards-1984.html">1984</a>, <a href="../awards-1981.html">1981</a>, 
+                    <a href="../awards-1980.html">1980</a>, <a href="../awards-1977.html">1977</a> 
+                  <p> 
+                  <h2>Disciplines</h2>
+                  <p><a href="../awards-africana.html">African American Studies</a><br>
+                    <a href="../awards-american.html">American Studies</a><br>
+                    <a href="../awards-animals.html">Animals and Society</a><br>
+                    <a href="../awards-anthro.html">Anthropology</a><br>
+                    <a href="../awards-art.html">Art and Photography</a><br>
+                    <a href="../awards-asian.html">Asian American Studies</a><br>
+                    <a href="../awards-bio.html">Biography</a><br>
+                    <a href="../awards-cinema.html">Cinema Studies</a><br>
+                    <a href="../awards-communit.html">Community Organizing and 
+                    Social Movements</a><br>
+                    <a href="../awards-educa.html">Education</a><br>
+                    <a href="../awards-family.html">Family Policy</a><br>
+                    <a href="../awards-gender.html">Gender Studies</a><br>
+                    <a href="../awards-general.html">General Interest</a><br>
+                    <a href="../awards-health.html">Health Care and Disability</a><br>
+                    <a href="../awards-history.html">History</a><br>
+                    <a href="../awards-labor.html">Labor Studies and Work</a><br>
+                    <a href="../awards-latin.html">Latin American/Caribbean Studies</a><br>
+                    <a href="../awards-latino.html">Latino/a Studies</a><br>
+                    <a href="../awards-law.html">Law and Criminology</a><br>
+                    <a href="../awards-litera.html">Literature and Drama</a><br>
+                    <a href="../awards-media.html">Mass Media and Communications</a><br>
+                    <a href="../awards-music.html">Music and Dance</a><br>
+                    <a href="../awards-phila.html">Philadelphia Region</a><br>
+                    <a href="../awards-philos.html">Philosophy and Ethics</a><br>
+                    <a href="../awards-poli_sci.html">Political Science and Public 
+                    Policy</a><br>
+                    <a href="../awards-psych.html">Psychology</a><br>
+                    <a href="../awards-race.html">Race and Ethnicity</a><br>
+                    <a href="../awards-religion.html">Religion</a><br>
+                    <a href="../awards-sex.html">Sexual Identity</a><br>
+                    <a href="../awards-socio.html">Sociology</a><br>
+                    <a href="../awards-sports.html">Sports</a><br>
+                    <a href="../awards-urban.html">Urban Studies</a><br>
+                    <a href="../awards-women.html">Women's Studies</a><br>
+                    <br>
+                    <a href="../awards-production.html">Design and Production 
+                    Awards</a><br>
+                  </P>
+                </td>
+              </tr>
+              <tr>
+                <td height="1" width="460"></td>
+                <td width="685"></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --> <!-- #BeginLibraryItem "/Library/back to top table.lbi" --><table border="0" cellspacing="0" cellpadding="12" width="100%">
+        <tr> 
+          <td width="542"> 
+            <p class="top"><a href="#top" OnMouseOver="window.status='Return to top of page';return true;" OnMouseOut="window.status=''" TITLE="Return to top of page">BACK 
+              TO TOP</a></p><p align="left">If you have questions or comments about any of our 
+              books, feel free to email the <a href="mailto:tempress@astro.ocis.temple.edu" OnMouseOver="window.status='Send mail to webmaster';return true;" OnMouseOut="window.status='';" TITLE="Send mail to webmaster">Webmaster</a>. 
+            </p></td></tr>
+      </table><!-- #EndLibraryItem --></td>
+        </tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr><td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td></tr>
+<tr><td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td></tr>
+<tr><td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a> | <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a> | <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a> | <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a> | <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a> | <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a> | <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a> | <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a> | <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a></font></td></tr>
+<tr><td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td></tr>
+<tr><td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td></tr>
+<tr><td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td></tr>
+<tr><td width="50%" valign="top" align="left" nowrap><font face="Arial" size="1"><a href="../copyright.html" OnMouseOver="window.status='Web Copyright Policy';return true;" OnMouseOut="window.status=''" TITLE="Web Copyright Policy">&copy;</a> 2002
+<a href="http://www.temple.edu" target="new" OnMouseOver="window.status='Link to Temple University home page';return true;" OnMouseOut="window.status=''" TITLE="Link to Temple University home page">Temple University</a>. All Rights Reserved.<br></font></td><td width="50%" valign="top" align="right" nowrap><font face="Arial" size="1"><a href="mailto:tempress@temple.edu">Webmaster</a><br>
+</font></td></tr>
+</table>
+</body>
+</html>
+                    

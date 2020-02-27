@@ -1,0 +1,150 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>On-line Ordering</title>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../general.css" type="text/css">
+</head>
+
+<!-- Site designed by D a w n  D a n i s h, Copyright 2000-2002 Temple University.  All Rights Reserved. -->
+
+<body bgcolor="#FFFFFF" text="#000000" link="#3152A5" vlink="#4B0082" alink="#990033">
+<center>
+<font face="Times" size="3">
+
+<!-- top banner -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+      <td valign="top" align="left" width="100%"><!-- #BeginEditable "header" --><img src="../img/online_infoheader.gif" border="0" width="649" height="71" alt="Online Ordering Information"><!-- #EndEditable --></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+</table>		
+
+<!-- main content table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td valign="top" align="left" width="200" background="../img/green.gif">
+
+<!-- left menu -->
+		<img src="../img/greendot.gif" border="0" width="200" height="1">	
+			<table border="0" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td valign="top" align="left" nowrap><img src="../img/greendot.gif" border="0" width="2" height="8"></td>
+					<td valign="top" align="left" nowrap>
+					<a href="../online_info.html" OnMouseOver="window.status='Secure ordering online';return true;" OnMouseOut="window.status=''" TITLE="Secure ordering online"><font face="Arial" size="2"><b>Online Ordering</b></font></a><br>
+					<font size="2">&nbsp;&nbsp;Secure online ordering</font><br>
+					<img src="../img/greendot.gif" border="0" width="2" height="8"><br>
+					<a href="../payment.html" OnMouseOver="window.status='The fine print';return true;" OnMouseOut="window.status=''" TITLE="The fine print"><font face="Arial" size="2"><b>Payment Terms</b></font></a><br>
+					<font size="2">&nbsp;&nbsp;Domestic and international<br>
+					&nbsp;&nbsp;orders, returns,<br>
+					&nbsp;&nbsp;shipping and handling</font><br>
+					<img src="../img/greendot.gif" border="0" width="2" height="8"><br>
+					<a href="../exam_copy.html" OnMouseOver="window.status='Interested in a book for course adoption?';return true;" OnMouseOut="window.status=''" TITLE="Interested in a book for course adoption?"><font face="Arial" size="2"><b>Exam & Desk Copy Requests</b></font></a><br>
+					<font size="2">&nbsp;&nbsp;Course adoption policy</font><br>
+					<img src="../img/greendot.gif" border="0" width="2" height="8"><br>
+					<!-- <a href="../trade_discount.html" OnMouseOver="window.status='The more you order, the more you save';return true;" OnMouseOut="window.status=''" TITLE="The more you order, the more you save"><font face="Arial" size="2"><b>Book Trade Info</b></font></a><br>
+              <font size="2">&nbsp;&nbsp;Discount schedule, how to<br>
+					&nbsp;&nbsp;set up an account</font><br>
+					<img src="../img/greendot.gif" border="0" width="2" height="8"><br> -->
+              <a href="../sales_reps.html" OnMouseOver="window.status='Want to talk to a sales rep?';return true;" OnMouseOut="window.status=''" TITLE="Want to talk to a sales rep?"><font face="Arial" size="2"><b>Sales 
+              Representatives</b></font></a><br>
+					<font size="2">&nbsp;&nbsp;Contact information for the<br>
+					&nbsp;&nbsp;sales representative nearest you</font><br>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td valign="top" align="left">
+
+<!-- body table -->
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+				</tr>
+<!-- top nav -->		<tr align="center">
+					<td valign="top" align="left" nowrap><font face="Arial" size="1">&nbsp;<a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a>
+					| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+					| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+					| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+					| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+					| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+					| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+					| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+					| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+					</font></td>
+				</tr>
+				<tr>
+					<td><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+				</tr>
+				<tr>
+					<td bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+				</tr>
+			</table>
+			
+        <!-- #BeginEditable "body%20table" -->
+        <table border="0" cellspacing="0" cellpadding="12" width="100%">
+          <!-- content -->
+          <tr> 
+            <td valign="top" align="left" width="542"> 
+              <p>Online ordering is easy and secure using the AAUP Secure Server. 
+                At the top left-hand corner of the individual book pages, a link 
+                reads, "Buy this Book" (<a href="../titles/1169_reg.html"><font face="arial" size="2"><b>View 
+                sample</b></font></a>.) Simply click the link, and you'll be taken 
+                to an order page. Add the book to your shopping cart. You can 
+                check out any time you like or modify your orders in the process. 
+            </td>
+          </tr>
+        </table>
+        <!-- #EndEditable --></td>
+	</tr>
+</table>
+
+<!-- footer table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a>
+		| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+		| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+		| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+		| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+		| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+		| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+		| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+		| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+		</font></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		
+      <td width="50%" valign="top" align="left" nowrap><font face="Arial" size="1"> 
+        <a href="../copyright.html" OnMouseOver="window.status='Web Copyright Policy';return true;" OnMouseOut="window.status=''" TITLE="Web Copyright Policy">&copy;</a> 
+        2002 <a href="http://www.temple.edu" target="new" OnMouseOver="window.status='Link to Temple University home page';return true;" OnMouseOut="window.status=''" TITLE="Link to Temple University home page">Temple 
+        University</a>. All Rights Reserved.<br>
+		</font></td>
+		
+      <td width="50%" valign="top" align="right" nowrap><font face="Arial" size="1">        <a href="mailto:tempress@temple.edu">Webmaster</a><br>
+	  </font></td>
+	</tr>
+</table>
+</font>
+</center>
+</body>
+</html>

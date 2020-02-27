@@ -1,0 +1,341 @@
+ 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>Contact Temple University Press</title>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../general.css" type="text/css">
+</head>
+<!-- Site designed by D a w n  D a n i s h, Copyright 2000-2002 Temple University.  All Rights Reserved. -->
+<body bgcolor="#FFFFFF" text="#000000" link="#3152A5" vlink="#4B0082" alink="#990033">
+
+    <!-- top banner -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr align="left" colspan="2" nowrap> 
+    <td valign="top" align="left"><img src="../img/contact.gif" border="0" width="200" height="78" alt="Contact Us"></td>
+    <td valign="top" align="left"><img src="../img/banner_top.gif" border="0" width="450" height="78" alt="Temple University Press" usemap="#avenueofarts"></td>
+  </tr>
+  <map name="avenueofarts"> 
+    <area shape="rect" coords="215,59,438,74" href="http://avenueofthearts.org" target="new" alt="A proud member of the Avenue of the Arts" title="A proud member of the Avenue of the Arts" >
+  </map>
+  <tr valign="top"> 
+    <td width="200" valign="top" align="left" background="../img/violet.gif" rowspan="3"> 
+      <!-- left menu -->
+      <img src="../img/violetdot.gif" border="0" width="200" height="1"> 
+      <table border="0" cellspacing="0" cellpadding="2" width="100%">
+        <tr valign="top"> 
+          <td valign="top" align="left" nowrap><img src="../img/violetdot.gif" border="0" width="2" height="8"></td>
+          <td valign="top" align="left" nowrap><p.serif><font size="2">If you would like to direct<br>
+            your mail to a specific person<br>
+            at the Press, please include his<br>
+            or her name in your message or...<br>
+            <br>
+            <p.serif>Visit the <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press"><font face="Arial" size="2"><b>Press 
+            Info</b></font></a> page<br>
+            and email your contact directly.<br>
+            <br>
+            <p.serif>Thanks for taking time to write.</font> </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top"> 
+      <!-- body table -->
+      <!-- top nav -->
+      <table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tr> 
+          <td colspan="2" valign="top" align="left" nowrap><font face="Arial" size="1">&nbsp;<a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b>Home</b></a>
+					| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+					| <b>Contact Us</b>
+					| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+					| <a href="../br.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+					| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+					| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+					| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+					| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+					</font></td>
+        </tr>
+        <tr> 
+          <td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="5"></td>
+        </tr>
+        <tr> 
+          <td colspan="2" bgcolor="#000000"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+        </tr>
+      </table>
+      <!-- #BeginEditable "body%20table" -->
+      <table cellpadding="12">
+        <tr> 
+          <td height="123" width="514" valign="top" align="left"> 
+            <p>If you want to send us a message, please fill out the following 
+              form. You can also call 215-204-8787 or write to: 
+            <p align="center">Temple University Press<br>
+              1601 N. Broad Street, 306 USB<br>
+              Philadelphia, PA 19122 
+          </td>
+        </tr>
+        <tr> 
+          <td> 
+            <table cellpadding="5" cellspacing="0">
+              <tr> 
+                <td width="149" height="38" valign="baseline" align="right"> 
+                  <p>Name:</p>
+                </td>
+                <td valign="top" align="left"> 
+                  <input name="from-name" type="text" value="" size=40>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="baseline" align="right"> 
+                  <p>Email: </p>
+                </td>
+                <td valign="top" align="left"> 
+                  <input type="text" name="from-email" size="40">
+                </td>
+              </tr>
+              <tr> 
+                <td valign="top" align="right"> 
+                  <p>Comments:</p>
+                </td>
+                <td valign="top" align="left"> 
+                  <textarea name="Comments" rows=5 cols=35 ></textarea>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="baseline" align="right"> 
+                  <p>Address: </p>
+                </td>
+                <td valign="top" align="left"> 
+                  <input size=40 name=Address>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="baseline" align="right"> 
+                  <p>City: </p>
+                </td>
+                <td valign="top" align="left"> 
+                  <input size=40 name=City>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="baseline" align="right"> 
+                  <p>State/Province: </p>
+                </td>
+                <td valign="baseline" align="left"> 
+                  <p> 
+                    <select name=State>
+                      <option value=" "> </option>
+                      <option value="AA">AA </option>
+                      <option value="AB">AB </option>
+                      <option value="AE">AE </option>
+                      <option value="AK">AK </option>
+                      <option value="AL">AL </option>
+                      <option value="AP">AP </option>
+                      <option value="AR">AR </option>
+                      <option value="AS">AS </option>
+                      <option value="AZ">AZ </option>
+                      <option value="BC">BC </option>
+                      <option value="CA">CA </option>
+                      <option value="CO">CO </option>
+                      <option value="CT">CT </option>
+                      <option value="DC">DC </option>
+                      <option value="DE">DE </option>
+                      <option value="FL">FL </option>
+                      <option value="GA">GA </option>
+                      <option value="GU">GU </option>
+                      <option value="HI">HI </option>
+                      <option value="IA">IA </option>
+                      <option value="ID">ID </option>
+                      <option value="IL">IL </option>
+                      <option value="IN">IN </option>
+                      <option value="KS">KS </option>
+                      <option value="KY">KY </option>
+                      <option value="LA">LA </option>
+                      <option value="MA">MA </option>
+                      <option value="MB">MB </option>
+                      <option value="MD">MD </option>
+                      <option value="ME">ME </option>
+                      <option value="MI">MI </option>
+                      <option value="MN">MN </option>
+                      <option value="MO">MO </option>
+                      <option value="MS">MS </option>
+                      <option value="MT">MT </option>
+                      <option value="NB">NB </option>
+                      <option value="NC">NC </option>
+                      <option value="ND">ND </option>
+                      <option value="NE">NE </option>
+                      <option value="NF">NF </option>
+                      <option value="NH">NH </option>
+                      <option value="NJ">NJ </option>
+                      <option value="NM">NM </option>
+                      <option value="NS">NS </option>
+                      <option value="NT">NT </option>
+                      <option value="NV">NV </option>
+                      <option value="NY">NY </option>
+                      <option value="OH">OH </option>
+                      <option value="OK">OK </option>
+                      <option value="ON">ON </option>
+                      <option value="OR">OR </option>
+                      <option value="PA">PA </option>
+                      <option value="PE">PE </option>
+                      <option value="PR">PR </option>
+                      <option value="QC">QC </option>
+                      <option value="RI">RI </option>
+                      <option value="SC">SC </option>
+                      <option value="SD">SD </option>
+                      <option value="SK">SK </option>
+                      <option value="TN">TN </option>
+                      <option value="TX">TX </option>
+                      <option value="UT">UT </option>
+                      <option value="VA">VA </option>
+                      <option value="VI">VI </option>
+                      <option value="VT">VT </option>
+                      <option value="WA">WA </option>
+                      <option value="WI">WI </option>
+                      <option value="WV">WV </option>
+                      <option value="WY">WY </option>
+                      <option value="YT">YT </option>
+                    </select>
+                    &nbsp;&nbsp;&nbsp;Zip/Postal Code: 
+                    <input maxlength=10 size=10 name=Zip>
+                </td>
+              </tr>
+              <tr> 
+                <td valign="baseline" align="right"> 
+                  <p>Country (if not US):</p>
+                </td>
+                <td valign="top" align="left"> 
+                  <input size=40 name=Country>
+                </td>
+              </tr>
+              <tr align="left" valign="baseline"> 
+                <td colspan="2"> 
+                  <p align="left"><font size=-2> 
+                    <input type=checkbox value=Y name=Catalog>
+                    Please send me your most recent catalog and add my name to 
+                    your mailing list.</font> 
+                </td>
+              </tr>
+              <tr align="left" valign="baseline"> 
+                <td colspan="2"> 
+                  <p align="left"><font size=-2> 
+                    <input type=checkbox value=Y name=e-release>
+                    I would like to receive email notices about new Temple Press 
+                    books and special offers.</font> 
+                </td>
+              <tr align="center"> 
+                <td colspan="2"> 
+                  <p><font size=-2> <br>
+                    My preferred subjects of interest are: <br>
+                    <select size=3 name=Subject(s) multiple>
+                      <option value="All">All Subjects </option>
+                      <option value="African American Studies">African American Studies</option>
+                      <option value="American Studies">American Studies</option>
+                      <option value="Animals and Society">Animals and Society</option>
+                      <option value="Anthropology">Anthropology</option>
+                      <option value="Art and Photography">Art and Photography</option>
+                      <option value="Asian American Studies">Asian American Studies</option>
+                      <option value="Biography">Biography</option>
+                      <option value="Cinema Studies">Cinema Studies</option>
+                      <option value="Community Organizing">Community Organizing and Social Movements</option>
+                      <option value="Cultural Studies">Cultural Studies</option>
+                      <option value="Education">Education</option>
+                      <option value="Family Policy">Family Policy</option>
+                      <option value="Gender Studies">Gender Studies</option>
+                      <option value="General Interest">General Interest</option>
+                      <option value="Health Care and Disability">Health Care and Disability</option>
+                      <option value="History">History</option>
+                      <option value="Labor Studies and Work">Labor Studies and Work</option>
+                      <option value="Latin/Caribbean Studies">Latin American/Caribbean Studies</option>
+                      <option value="Latino/a Studies">Latino/a Studies</option>
+                      <option value="Law and Criminology">Law and Criminology</option>
+                      <option value="Literature and Drama">Literature and Drama</option>
+                      <option value="Mass Media and Communications">Mass Media and Communications</option>
+                      <option value="Music and Dance">Music and Dance</option>
+                      <option value="Nature and the Environment">Nature and the Environment</option>
+                      <option value="Philadelphia Region">Philadelphia Region</option>
+                      <option value="Philosophy and Ethics">Philosophy and Ethics</option>
+                      <option value="Political Science and Public Policy">Political Science and Public Policy</option>
+                      <option value="Psychology">Psychology</option>
+                      <option value="Race and Ethnicity">Race and Ethnicity</option>
+                      <option value="Religion">Religion</option>
+                      <option value="Science">Science</option>
+                      <option value="Sexual Identity">Sexual Identity</option>
+                      <option value="Sociology">Sociology</option>
+                      <option value="Sports">Sports</option>
+                      <option value="Urban Studies">Urban Studies</option>
+                      <option value="Women's Studies">Women's Studies</option>
+                    </select>
+                    <br>
+                    (use the CTRL key to select multiple subjects)<br>
+                    </font> 
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" valign="top"> 
+                  <div align="center"> 
+                    <input type="hidden" name="subject" value="Your inquiry at Temple University Press">
+                    <input type="submit" value="Send Comments" name="submit">
+                    <input type="reset" value="Reset" name="reset">
+                    <input type="hidden" name="next-url" value="http://www.temple.edu/tempress/received.html">
+                  </div>
+                </td>
+              </tr>
+              <tr> 
+                <td colspan="2" height="26" valign="top"> 
+                  <p><font size=-2>Privacy Policy: Temple University Press respects 
+                    your privacy. We carefully control the distribution of our 
+                    customer information, and although we occasionally buy, sell, 
+                    and swap mailing lists, we do so only with like-minded organizations. 
+                    If you wish to be removed from either the postal mailing list 
+                    or the email distribution list, please send a note to the 
+                    <a href="mailto:tempress@astro.temple.edu">webmaster</a>.</font> 
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- #EndEditable --></td>
+  </tr>
+</table>
+<!-- footer table -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr> 
+    <td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+  </tr>
+  <tr> 
+    <td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><a href="../index.html" OnMouseOver="window.status='Welcome to Temple University Press';return true;" OnMouseOut="window.status=''" TITLE="Welcome to Temple University Press"><b
+>Home</b></a> | <b>Our Books</b> | <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact 
+      Us</a> | <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place 
+      an Order</a> | <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a> 
+      | <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press 
+      Info</a> | <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a> 
+      | <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site 
+      Map</a> | <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a> 
+      </font></td>
+  </tr>
+  <tr> 
+    <td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+  </tr>
+  <tr> 
+    <td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+  </tr>
+  <tr> 
+    <td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+  </tr>
+  <tr> 
+    <td width="50%" valign="top" align="left" nowrap><font face="Arial" size="1"> 
+      <a href="../copyright.html" OnMouseOver="window.status='Web Copyright Policy';return true;" OnMouseOut="window.status=''" TITLE="Web Copyright Policy">&copy;</a> 
+      2002<a href="http://www.temple.edu" target="new" OnMouseOver="window.status='Link to Temple University home page';return true;" OnMouseOut="window.status=''" TITLE="Link to Temple University home page"> 
+      Temple University</a>. All Rights Reserved.<br>
+      </font></td>
+    <td width="50%" valign="top" align="right" nowrap><font face="Arial" size="1"> 
+      <a href="mailto:tempress@temple.edu"> Webmaster</a><br>
+    </font></td>
+  </tr>
+</table>
+</body>
+</html>

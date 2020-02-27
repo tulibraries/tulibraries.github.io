@@ -1,0 +1,298 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+<meta name="Temple University Press" content=" ">
+<meta name="keywords" HTTP-EQUIV="keywords" content="temple university press, publishing">
+<!-- #BeginEditable "doctitle" -->
+<title>Temple University Press</title>
+<!-- #EndEditable -->
+<link rel="stylesheet" href="../general.css" type="text/css">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<!-- Site designed by D a w n  D a n i s h, Copyright 2000-2002 Temple University.  All Rights Reserved. -->
+
+<body bgcolor="#FFFFFF" text="#000000" link="#3152A5" vlink="#4B0082" alink="#990033" onLoad="MM_preloadImages('../covers/BFB_rollover.gif','../img/promos/extended_sale/covers_f2.gif','../img/promos/extended_sale/covers_f3.gif','../img/promos/extended_sale/covers_f4.gif','../img/promos/extended_sale/covers_f5.gif','../img/promos/extended_sale/covers_f6.gif','../img/promos/extended_sale/covers_f7.gif','../img/promos/extended_sale/covers_f8.gif','../img/promos/extended_sale/covers_f9.gif','../img/promos/extended_sale/covers_f10.gif','../img/promos/extended_sale/covers_f11.gif')">
+<center>
+  <font face="Times" size="3"> 
+  <!-- top banner -->
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		
+      <td valign="top" align="center" width="100%"><img src="../img/banner_top.gif" border="0" width="450" height="78" alt="Temple University Press" usemap="#avenueofarts"></td>
+	</tr>
+<!-- top nav -->
+
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="1" height="1"></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><b>Home</b>
+		| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+		| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+		| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+		| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+		| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+		| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+		| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+		| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+		</font></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="6"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#000000"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+</table>		
+
+<!-- main content table -->
+
+<table border="0" cellspacing="0" cellpadding="2" width="100%">
+	<tr>
+		<td valign="top" align="left" width="200" background="../img/background.jpg">
+<!-- left menu -->
+			<table border="0" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td valign="top" align="left" nowrap><img src="../img/beigedot.jpg" border="0" width="182" height="8">
+					<br>&nbsp;&nbsp;<b><a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book"><font face="Arial" size="2">Our Books</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;Award winners, bestsellers,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;subject index, series listing,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;forthcoming books, catalogs...</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!"><font face="Arial" size="2">Contact Us</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;Join the mailing list,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;request a catalog...</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail"><font face="Arial" size="2">Place an Order</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;Online ordering, payment<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;terms, book trade info,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;examination copy requests</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out"><font face="Arial" size="2">Media</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;Events calendar, recent<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;reviews, review copies</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press"><font face="Arial" size="2">Press Info</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;Mission statement, staff, rights<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;and permissions, submissions,<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;downloadable documents, FAQ</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources"><font face="Arial" size="2">Links</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;AAUP, Copyright Clearance<br>
+					&nbsp;&nbsp;&nbsp;&nbsp;Center, Eurospan...</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?"><font face="Arial" size="2">Site Map</font></a></b><br>
+					<font size="2">&nbsp;&nbsp;&nbsp;&nbsp;</font><br>
+					<img src="../img/beigedot.jpg" border="0" width="2" height="8"><br>
+					&nbsp;&nbsp;<b><a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site"><font face="Arial" size="2">Search</font></a></b><br>
+					</td>
+				</tr>
+			</table>
+		</td>
+		
+      <td valign="top" align="left"> 
+        <!-- body table -->
+        <!-- #BeginEditable "body%20table" -->
+        <table border="0" cellspacing="0" cellpadding="12" width="100%">
+          <tr> 
+            <td valign="top" align="center"> <img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+              <a href="../calendar.html" OnMouseOver="window.status='View the Press Events Calendar';return true;" OnMouseOut="window.status=''" TITLE="View the Press Events Calendar"> 
+              <!-- animated banner -->
+              <img src="../covers/news_flashes.gif" border="0" height="30" width="445"></a><br>
+              <img src="../img/spacer.gif" border="0" width="2" height="8"><br>
+              <img src="../img/350line.gif" height="1" width="350"></td>
+          </tr>
+          <tr> 
+            <td> 
+              <table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+                <tr> 
+                  <!-- feature book and blurb -->
+                  <td align="center" valign="top" width="192" height="256"><a href="../fall2002.html"><img src="../covers/fall2002shadow.gif" width="148" height="200" border="0" alt="Fall 2002 Catalog"></a><br>
+                    <center>
+                      <b><font face="Verdana, Arial, Helvetica, sans-serif" size="2">New 
+                      Fall Books!</font></b> 
+                    </center>
+                  </td>
+                  <td width="165" valign="top"> 
+                    <table border="0" cellpadding="0" cellspacing="0" width="300">
+                      <!-- fwtable fwsrc="websale2002.png" fwbase="websale2002.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+                      <tr> 
+                        <td valign="top" height="19" colspan="9"><img name="websale2002_r1_c1" src="../img/promos/extended_sale/websale2002_r1_c1.gif" width="300" height="19" border="0"></td>
+                        <td width="2"></td>
+                      </tr>
+                      <tr> 
+                        <td valign="top" width="108" rowspan="2"><img name="covers" src="../img/promos/extended_sale/covers.gif" width="108" height="123" border="0"></td>
+                        <td height="53" valign="top" width="34"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f2.gif',1)" ><img name="websale2002_r2_c2" src="../img/promos/extended_sale/websale2002_r2_c2.gif" width="34" height="53" border="0"></a></td>
+                        <td valign="top" width="35"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f3.gif',1)" ><img name="websale2002_r2_c3" src="../img/promos/extended_sale/websale2002_r2_c3.gif" width="35" height="53" border="0"></a></td>
+                        <td width="19" valign="top"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f4.gif',1)" ><img name="websale2002_r2_c4" src="../img/promos/extended_sale/websale2002_r2_c4.gif" width="19" height="53" border="0"></a></td>
+                        <td colspan="2" valign="top"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f5.gif',1)" ><img name="websale2002_r2_c5" src="../img/promos/extended_sale/websale2002_r2_c5.gif" width="18" height="53" border="0"></a></td>
+                        <td valign="top" colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f6.gif',1)" ><img name="websale2002_r2_c7" src="../img/promos/extended_sale/websale2002_r2_c7.gif" width="34" height="53" border="0"></a></td>
+                        <td valign="top" width="52"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f7.gif',1)" ><img name="websale2002_r2_c9" src="../img/promos/extended_sale/websale2002_r2_c9.gif" width="52" height="53" border="0"></a></td>
+                        <td></td>
+                      </tr>
+                      <tr> 
+                        <td height="70" valign="top"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f8.gif',1)" ><img name="websale2002_r3_c2" src="../img/promos/extended_sale/websale2002_r3_c2.gif" width="34" height="70" border="0"></a></td>
+                        <td valign="top" colspan="3"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f9.gif',1)" ><img name="websale2002_r3_c3" src="../img/promos/extended_sale/websale2002_r3_c3.gif" width="62" height="70" border="0"></a></td>
+                        <td valign="top" colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f10.gif',1)" ><img name="websale2002_r3_c6" src="../img/promos/extended_sale/websale2002_r3_c6.gif" width="38" height="70" border="0"></a></td>
+                        <td valign="top" colspan="2"><a href="#" onMouseOut="MM_swapImgRestore()"  onMouseOver="MM_swapImage('covers','','../img/promos/extended_sale/covers_f11.gif',1)" ><img name="websale2002_r3_c8" src="../img/promos/extended_sale/websale2002_r3_c8.gif" width="58" height="70" border="0"></a></td>
+                        <td></td>
+                      </tr>
+                      <tr> 
+                        <td colspan="9" height="58" valign="top"><img name="websale2002_r4_c1" src="../img/promos/extended_sale/websale2002_r4_c1.gif" width="300" height="58" border="0"></td>
+                        <td></td>
+                      </tr>
+                      <tr> 
+                        <td height="1"></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td width="8"></td>
+                        <td width="10"></td>
+                        <td width="28"></td>
+                        <td width="6"></td>
+                        <td></td>
+                        <td></td>
+                      </tr>
+                    </table>
+                  </td>
+                  <td width="240"></td>
+                  <!-- monthly featured books -->
+                </tr>
+              </table>
+              <table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
+                <tr> 
+                  <td width="100%" align="center"><img src="../img/350line.gif" height="1" width="350"><br>
+                    <img src="../img/spacer.gif" border="0" width="2" height="8"></td>
+                </tr>
+                <tr> 
+                  <td> 
+                    <ul>
+                      <li> 
+                        <p>Read a <a href="../authors/1635_qa.html">Q&A with Gerda 
+                          Lerner</a> from the <i>Chronicle of Higher Education</i> 
+                      <li> 
+                        <p>Check the <a href="../calendar.html">calender</a> for 
+                          upcoming Press events
+                    </ul>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="100%" align="center"><img src="../img/350line.gif" height="1" width="350"><br>
+                    <img src="../img/spacer.gif" border="0" width="2" height="8"></td>
+                </tr>
+                <!-- calendar link -->
+              </table>
+              <table align="center" border="0" cellspacing="0" cellpadding="5" width="100%">
+                <!-- previous features and catalog -->
+                <tr> 
+                  <td align="center" valign="top" width="140"><a href="../titles/1592_reg.html" OnMouseOver="window.status='The Package Deal';return true;" OnMouseOut="window.status=''"TITLE="The Package Deal"><img src="../titles/1592_reg.gif" border="0" height="200" alt="The Package Deal"></a><br>
+                    <center>
+                      <font size="1" face="Verdana, Arial, Helvetica, sans-serif">A 
+                      book about understanding men's lives in the modern world</font> 
+                    </center>
+                  </td>
+                  <td align="center" valign="center" width="140"><a href="../titles/1640_reg.html" OnMouseOver="window.status='New Jack Jocks';return true;" OnMouseOut="window.status=''" TITLE="New Jack Jocks"><img src="../titles/1640_reg.gif" border="1" height="200" alt="New Jack Jocks"></a><br>
+                    <center>
+                      <font size="1" face="Verdana, Arial, Helvetica, sans-serif">The 
+                      hero and anti-hero in contemporary sport, from a bestselling 
+                      journalist</font> 
+                    </center>
+                  </td>
+                  <td align="center" valign="top" width="140"><a href="../titles/1618_reg.html" OnMouseOver="window.status='The Philadelphia Area Weather Book';return true;" OnMouseOut="window.status=''" TITLE="The Philadelphia Area Weather Book"><img src="../titles/1618_reg.gif" border="0" height="200" alt="The Philadelphia Area Weather Book"></a><br>
+                    <center>
+                      <font size="1" face="Verdana, Arial, Helvetica, sans-serif">A 
+                      book for every season</font> 
+                    </center>
+                  </td>
+                </tr>
+                <!-- <tr><td><p>&nbsp;</td></tr>
+						<tr>
+							<td align="center" valign="top" width="140"><a href="titles/1623_reg.html" OnMouseOver="window.status='Air Wars';return true;" OnMouseOut="window.status=''" TITLE="Air Wars"><img src="titles/1623_reg.gif" border="0" height="200"></a><br>
+							<center><font face="arial" size="1">An absorbing account of one of the most contentious battles for community media control ever waged in the U.S.</font></center></td>
+							<td align="center" valign="top" width="140"><a href="titles/1572_reg.html" OnMouseOver="window.status='Migration, Transnationalization, and Race in a Changing New York';return true;" OnMouseOut="window.status=''" TITLE="Migration, Transnationalization, and Race in a Changing New York"><img src="titles/1572_reg.gif" border="0" height="199"></a><br>
+							<center><font face="arial" size="1">An examination of the complex forces that shape the contemporary immigration experience in New York City</font></center></td>
+							<td align="center" valign="top" width="140"><a href="titles/1621_reg.html" OnMouseOver="window.status='In Transit';return true;" OnMouseOut="window.status=''" TITLE="In Transit"><img src="titles/1621_reg.gif" border="0" height="200"></a><br>
+							<center><font face="arial" size="1">An award-winning history of the Transport Workers Union, and an example of radical organizing in action</font></center></td>
+						</tr> -->
+              </table>
+          </tr>
+        </table>
+        <!-- #EndEditable --></td>
+	</tr>
+</table>
+
+<!-- footer table -->
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" valign="top" align="center" nowrap><font face="Arial" size="1"><b>Home</b>
+		| <a href="../books.html" OnMouseOver="window.status='Browse our catalog or search for a book';return true;" OnMouseOut="window.status=''" TITLE="Browse our catalog or search for a book">Our Books</a>
+		| <a href="../contact.html" OnMouseOver="window.status='Questions? Comments? Tell us!';return true;" OnMouseOut="window.status=''" TITLE="Questions? Comments? Tell us!">Contact Us</a>
+		| <a href="../order.html" OnMouseOver="window.status='Online ordering or order by phone, fax, or mail';return true;" OnMouseOut="window.status=''" TITLE="Online ordering or order by phone, fax, or mail">Place an Order</a>
+		| <a href="../media.html" OnMouseOver="window.status='Get the news out';return true;" OnMouseOut="window.status=''" TITLE="Get the news out">Media</a>
+		| <a href="../press.html" OnMouseOver="window.status='Meet the Press';return true;" OnMouseOut="window.status=''" TITLE="Meet the Press">Press Info</a>
+		| <a href="../links.html" OnMouseOver="window.status='Other university press resources';return true;" OnMouseOut="window.status=''" TITLE="Other university press resources">Links</a>
+		| <a href="../map.html" OnMouseOver="window.status='Need navigation directions?';return true;" OnMouseOut="window.status=''" TITLE="Need navigation directions?">Site Map</a>
+		| <a href="../search.html" OnMouseOver="window.status='Search the Temple Press web site';return true;" OnMouseOut="window.status=''" TITLE="Search the Temple Press web site">Search</a>
+		</font></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#404040"><img src="../img/spacer.gif" border="0" width="2" height="2"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="../img/spacer.gif" border="0" width="2" height="4"></td>
+	</tr>
+	<tr>
+		
+      <td width="50%" valign="top" align="left" nowrap><font face="Arial" size="1"> 
+        <a href="../copyright.html" OnMouseOver="window.status='Web Copyright Policy';return true;" OnMouseOut="window.status=''" TITLE="Web Copyright Policy">&copy;</a> 
+        2002<a href="http://www.temple.edu" target="new" OnMouseOver="window.status='Link to Temple University home page';return true;" OnMouseOut="window.status=''" TITLE="Link to Temple University home page">Temple 
+        University</a>. All Rights Reserved.<br>
+		</font></td>
+		<td width="50%" valign="top" align="right" nowrap><font face="Arial" size="1"><a href="mailto:tempress@temple.edu">Webmaster</a><br>
+	  </font></td>
+	</tr>
+</table>
+
+
+</font></center>
+<map name="avenueofarts"> 
+  <area shape="rect" coords="213,58,440,72" href="http://avenueofthearts.org" target="new" alt="A proud member of the Avenue of the Arts" title="A proud member of the Avenue of the Arts">
+</map>
+</body>
+</html>

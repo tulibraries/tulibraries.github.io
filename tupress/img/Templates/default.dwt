@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+<title></title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="../default.css" rel="stylesheet" type="text/css" />
+
+
+<style type="text/css">
+<!--
+body
+{
+	background-color: #FFFFFF;
+}
+-->
+</style>
+</head>
+
+<body link="#660000" vlink="#660000" alink="#660000">
+<table width="650"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="377" valign="top" bgcolor="#FFFFFF"><img src="/FTU/tlogo.gif" alt="Temple Logo" width="158" height="47" /></td>
+    <td width="273" align="right" valign="baseline" bgcolor="#FFFFFF"><form method="GET" action="http://gong.temple.edu/search">
+
+<input type="text" name="q" size="25" maxlength="255" value="Search">
+<input type="submit" name="btnG" value="Go">
+<br>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2">Powered by</font> <img src="/FTU/google.gif" alt="Google Logo" width="50" heigth="18" align="texttop">
+<input type="hidden" name="site" value="temple_index"/>
+<input type="hidden" name="client" value="temple_index">
+<input type="hidden" name="proxystylesheet" value="http://www.temple.edu/unix/tis.xslt">
+<input type="hidden" name="restrict" value="temple">
+<input type="hidden" name="output" value="xml_no_dtd">
+<input type="hidden" name="sitesearch" value="www.temple.edu/tempress/img">
+</form>
+</td>
+  </tr>
+
+  <tr align="center" valign="middle">
+    <td colspan="2"> 
+      <div id="navigation2"><!-- TemplateBeginEditable name="TOP LINKS" -->|<a class="navigation2" href="#"> LINK 1</a>|<a class="navigation2" href="#"> LINK 2 </a>|<a class="navigation2" href="#"> LINK 3 </a>|<a class="navigation2" href="#"> LINK 4 </a>|<a class="navigation2" href="#"> LINK 5 </a>|<a class="navigation2" href="#"> LINK 6 </a>|<a class="navigation2" href="#"> LINK 7 </a>|<!-- TemplateEndEditable --></div>
+	</td>
+  </tr>
+</table>
+<table width="650" border="0" align="center"  cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr > 
+    <td align="center" valign="baseline" bgcolor="#C2C287">    <!-- TemplateBeginEditable name="DEPARTMENT NAME" --><span class="departmentname">Department / Organization Name</span><!-- TemplateEndEditable --></td>
+  </tr>
+  <tr> 
+    <td><hr width="100%" size="2" noshade="noshade" /></td>
+  </tr>
+</table>
+
+<table width="650" border="0" align="center" cellpadding="5" cellspacing="0" bgcolor="#FFFFFF">
+  <tr align="left" valign="top"> 
+    <td width="125"> 
+	  <!-- TemplateBeginEditable name="IMAGE 125 x 138 Pixels" --><img src="/FTU/belltower.gif" alt="Bell Tower" border="1" /><!-- TemplateEndEditable --><!-- TemplateBeginEditable name="SIDE LINKS" -->
+      <div id="navigation"><a href="#">LINK 1 </a></div>
+      <div id="navigation"><a href="#">LINK 2 </a></div>
+      <div id="navigation"><a href="#">LINK 3</a></div>
+      <div id="navigation"><a href="#">LINK 4</a></div>
+      <div id="navigation"><a href="#">LINK 5</a></div>
+
+
+
+    <!-- TemplateEndEditable -->  <div id="navigation"><a href="http://www.temple.edu">TEMPLE HOME</a></div></td>
+    <td width="7">&nbsp;</td>
+    <td width="488" align="left"> 
+	<!-- TemplateBeginEditable name="Header" -->
+	<h1>HEADING
+      </h1> 
+	<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Body Text" -->
+
+      <div id="maincontent">
+        ENTER TEXT
+      </div>
+      <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr align="left" valign="top" bgcolor="#FFFFFF"> 
+    <td height="6" colspan="3"></td>
+  </tr>
+  <tr align="left" valign="top" bgcolor="#990000"> 
+    <td colspan="3"></td>
+  </tr>
+</table>
+<table width="650" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="42">
+      <img src="/FTU/footer.gif" alt="Temple Flag" width="36" height="36" border="0" align="left" />
+    </td>
+    <td width="608">
+	<div id="footer"><!-- TemplateBeginEditable name="FOOTER" -->1801 North Broad Street, Philadelphia, PA 19122 USA Phone: 215-204-7000<!-- TemplateEndEditable --><br />
+      &copy; Copyright 2005, Temple University. All rights 
+      reserved.</div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
