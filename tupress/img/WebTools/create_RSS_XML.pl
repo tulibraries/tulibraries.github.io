@@ -65,7 +65,8 @@ printf("Content-Type: text/html\n\n");  										# Must always print out FIRST!
 #printf("<!-- BEGIN CGI code -->\n\n");
 
 printf("<html>\n");
-printf("<head>\n");
+printf("<head>
+<meta name='robots' content='noindex,nofollow' />\n");
 printf("<title>Temple University $CoolProgramName</title>\n");
 #printf("<link href=\"/FTU/cs_style.css\" rel=\"stylesheet\" type=\"text/css\">\n");
 printf("<link href=\"/FTU/includes/ftu2-global-stylesheet.css\" rel=\"stylesheet\" type=\"text/css\">\n");
@@ -896,7 +897,8 @@ sub GenerateRSS()
 
 
 #	printf(outHTMLfh "<html>\n");
-#	printf(outHTMLfh "<head>\n");
+#	printf(outHTMLfh "<head>
+<meta name='robots' content='noindex,nofollow' />\n");
 #	printf(outHTMLfh "<title>%s</title>\n", $RSS{"ChannelTitle"} );
 #	printf(outHTMLfh "<meta name=\"robots\"\t\tcontent=\"NoArchive, NoIndex, NoFollow\">\n");
 #	printf(outHTMLfh "<meta name=\"description\"\tcontent=\"RSS feed (HTML-version).\">\n" );
@@ -1350,7 +1352,7 @@ if ($METHOD =~ /^POST$/)
 			$value =~ s/&lsquo;/\`/igo; 									# left-side quote
 
 			$value =~ s/%97/\-/igo; 									# convert 'Em' dash to hyphen
-			$value =~ s/%ED/i/igo; 										# convert Spanish í to English i
+			$value =~ s/%ED/i/igo; 										# convert Spanish ï¿½ to English i
 
 			$value =~ s/%([\da-fA-F]{2})/chr(hex($1))/eg; 							# convert hexidecimal to ASCII -- yes this is working.
 

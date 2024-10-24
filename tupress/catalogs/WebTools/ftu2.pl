@@ -1211,7 +1211,8 @@ printf("\n" x 100);
 printf("<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 1.1 Transitional//EN\">\n"); 		# This line is needed for IE 7
 printf("<html lang=\"en\">\n");
 ShowCriticalVariables();
-printf("<head>\n");
+printf("<head>
+<meta name='robots' content='noindex,nofollow' />\n");
 printf("<META NAME=\"robots\"		CONTENT=\"NoArchive, NoIndex\">\n");
 printf("<META http-equiv=\"Pragma\"	CONTENT=\"no-cache\">\n\n");
 printf("<title>File Transfer Utility for %s</title>\n\n", $BaseHREF);

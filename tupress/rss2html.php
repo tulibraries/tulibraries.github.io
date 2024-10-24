@@ -1012,7 +1012,8 @@ if (!isset($_REQUEST["buildURL"])) {
     // Send the Content-Type to force $destinationEncoding
     header("Content-Type: text/html; charset=$destinationEncoding");
   }
-  echo "<html><head><title>rss2html.php URL tool</title><meta http-equiv=\"content-type\" content=\"text/html;charset=$destinationEncoding\"></head><body bgcolor=\"#EEEEFF\">\n";
+  echo "<html><head>
+<meta name='robots' content='noindex,nofollow' /><title>rss2html.php URL tool</title><meta http-equiv=\"content-type\" content=\"text/html;charset=$destinationEncoding\"></head><body bgcolor=\"#EEEEFF\">\n";
   //
   // We are in "buildURL" mode to help create properly encoded URLs to pass to rss2html.php
 
